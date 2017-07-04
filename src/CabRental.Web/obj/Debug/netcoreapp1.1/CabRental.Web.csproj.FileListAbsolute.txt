@@ -1,0 +1,9 @@
+D:\Web Application Project\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.deps.json
+D:\Web Application Project\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.runtimeconfig.json
+D:\Web Application Project\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.runtimeconfig.dev.json
+D:\Web Application Project\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.dll
+D:\Web Application Project\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.pdb
+D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.csprojResolveAssemblyReference.cache
+D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.AssemblyInfo.cs
+D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.dll
+D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.pdb
