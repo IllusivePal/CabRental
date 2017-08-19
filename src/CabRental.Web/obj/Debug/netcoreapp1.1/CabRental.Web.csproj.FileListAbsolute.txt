@@ -7,3 +7,14 @@ D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\C
 D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.AssemblyInfo.cs
 D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.dll
 D:\Web Application Project\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.pdb
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.deps.json
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.runtimeconfig.json
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.runtimeconfig.dev.json
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.dll
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\bin\Debug\netcoreapp1.1\CabRental.Web.pdb
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.AssemblyInfoInputs.cache
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.AssemblyInfo.cs
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.dll
+C:\Users\Kyamc\Aspnet_Core\CabRental\src\CabRental.Web\obj\Debug\netcoreapp1.1\CabRental.Web.pdb
